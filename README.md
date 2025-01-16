@@ -1,12 +1,12 @@
 <!-- DOCTOC   SKIP -->
 
 <h1 align="center">
- <a href="https://www.skyvern.com">
+ 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/images/skyvern_logo.png"/>
     <img height="120" src="docs/images/skyvern_logo_blackbg.png"/>
   </picture>
- </a>
+
  <br />
 </h1>
 <p align="center">
